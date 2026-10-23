@@ -1,0 +1,6 @@
+{
+  "name": "NEXBIZ",
+  "description": "Multi-tenant offline-first Point of Sale (POS) architecture with IDR precision, Room SQLite WAL mode, and synchronization state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

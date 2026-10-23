@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NEXBIZ</string>
+    <string name="nexbiz_header_title">NEXBIZ POS Architecture</string>
+    <string name="nexbiz_header_subtitle">Offline-First Multi-Tenant Point of Sale Engine</string>
+    <string name="pos_pay_action">BAYAR</string>
+    <string name="pos_outbox_inspector">Outbox &amp; COA</string>
+    <string name="pos_receipt_preview_title">Struk Kasir Offline (ESC/POS)</string>
+</resources>

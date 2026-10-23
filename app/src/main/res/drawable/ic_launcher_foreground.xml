@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- POS Terminal / Register Silhouette inside safe zone -->
+    <path
+        android:fillColor="#FF10B981"
+        android:pathData="M30,32C30,28.69 32.69,26 36,26H72C75.31,26 78,28.69 78,32V56C78,59.31 75.31,62 72,62H36C32.69,62 30,59.31 30,56V32ZM36,34V54H72V34H36Z" />
+    <path
+        android:fillColor="#FFF59E0B"
+        android:pathData="M42,40H66V48H42V40Z" />
+    <path
+        android:fillColor="#FF10B981"
+        android:pathData="M26,66H82L86,80C86,82.21 84.21,84 82,84H26C23.79,84 22,82.21 22,80L26,66ZM38,72V76H46V72H38ZM50,72V76H58V72H50ZM62,72V76H70V72H62Z" />
+</vector>
